@@ -8,7 +8,7 @@ Excel (.xlsm) files before and after data cleaning shows how those data was chan
 created macros using Visual Basic for Applications. 
 
 Power BI file (.pbix) shows the complete report. You can use "between slicers" and take a look how those data is changing while you are setting custom parameters.
-Setting amount of appearances is important, because many polish players like juniors doesn't very play often and it is significant for comparision statistics 
+Setting amount of appearances is important, because many polish players like juniors doesn't play very often and it is significant for comparision statistics 
 such as "Polish players versus foreigners".
 
 PDF file shows how report looks like on the first sight without downloading it, but you cannot make any interactions.

@@ -1,5 +1,8 @@
 # Ekstraklasa-sezon-2021-2022
-This project includes: data cleaning with Excel and VBA | creating measuers with DAX | data visualisation and finishing report with Power BI
+This project shows my skillset such as: 
+- data cleaning using Excel and VBA 
+- creating measuers with DAX language 
+- data visualisation and finalization report using Power BI.
 
 Excel (.xlsm) files before and after data cleaning shows how those data was changed while data cleaning process. In this process I used methods of Excel and
 created macros using Visual Basic for Applications. 

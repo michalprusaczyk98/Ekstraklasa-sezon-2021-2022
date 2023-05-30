@@ -14,4 +14,4 @@ such as "Polish players versus foreigners".
 
 PDF file shows how report looks like on the first sight without downloading it, but you cannot make any interactions.
 
-[UPDATE] Project contains a new feature - webscrapping and data preprocessing automaticaly, only you have to do is put an URL from team profile details in transfermarkt.com.
+[UPDATE] Project contains a new feature - webscrapping and data preprocessing automaticaly, only you have to do is put an URL from team profile details section in transfermarkt.com.

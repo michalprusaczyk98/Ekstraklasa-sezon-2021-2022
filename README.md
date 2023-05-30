@@ -3,6 +3,7 @@ This project shows my skillset such as:
 - data cleaning using Excel and VBA 
 - creating measuers with DAX language 
 - data visualisation and finalization report using Power BI.
+- webscrapping and data cleansing using Python (NumPy, Pandas) [UPDATE]
 
 Excel (.xlsm) files before and after data cleaning shows how those data was changed while data cleaning process. In this process I used methods of Excel and
 created macros using Visual Basic for Applications. 
@@ -12,3 +13,5 @@ Setting amount of appearances is important, because many polish players like jun
 such as "Polish players versus foreigners".
 
 PDF file shows how report looks like on the first sight without downloading it, but you cannot make any interactions.
+
+[UPDATE] Project contains a new feature - webscrapping and data preprocessing automaticaly, only you have to do is put an URL from team profile details in transfermarkt.com.

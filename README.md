@@ -1,6 +1,6 @@
 # Ekstraklasa-sezon-2021-2022
 
-[SHOW report in PDF](https://github.com/michalprusaczyk98/Ekstraklasa-sezon-2021-2022/blob/main/on_first_sight_ekstraklasa2021-2022.pdf)
+[SHOW dashboard in PDF](https://github.com/michalprusaczyk98/Ekstraklasa-sezon-2021-2022/blob/main/on_first_sight_ekstraklasa2021-2022.pdf)
 
 [SHOW Jupyter Notebook](https://github.com/michalprusaczyk98/Ekstraklasa-sezon-2021-2022/blob/main/Web_scrapping_and_preprocessing.ipynb)
 

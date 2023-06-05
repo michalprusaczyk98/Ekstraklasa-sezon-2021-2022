@@ -4,6 +4,8 @@
 
 [SHOW Jupyter Notebook](https://github.com/michalprusaczyk98/Ekstraklasa-sezon-2021-2022/blob/main/Web_scrapping_and_preprocessing.ipynb)
 
+[Download Power BI file](https://github.com/michalprusaczyk98/Ekstraklasa-sezon-2021-2022/raw/main/Ekstraklasa_2021-2022_Report.pbix)
+
 This project shows my skillset such as: 
 - data cleaning using Excel and VBA 
 - creating measuers with DAX language 

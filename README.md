@@ -1,4 +1,4 @@
-# Ekstraklasa season 2021-2022 analysis
+# Ekstraklasa season 2021-2022
 
 ## [SHOW interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY5ZTcxYWEtZTExNi00ZWE0LThkZmItOGMwZDJlYWU0ZjFhIiwidCI6ImFjYjdlMzMyLWFjMTctNDA5ZC04OWZiLWE2MTQxNjEyNGM0YSIsImMiOjl9&pageName=ReportSection)
 

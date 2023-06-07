@@ -1,6 +1,6 @@
 # Ekstraklasa 2021-2022
 
-## [SHOW interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY5ZTcxYWEtZTExNi00ZWE0LThkZmItOGMwZDJlYWU0ZjFhIiwidCI6ImFjYjdlMzMyLWFjMTctNDA5ZC04OWZiLWE2MTQxNjEyNGM0YSIsImMiOjl9)
+## [SHOW interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY5ZTcxYWEtZTExNi00ZWE0LThkZmItOGMwZDJlYWU0ZjFhIiwidCI6ImFjYjdlMzMyLWFjMTctNDA5ZC04OWZiLWE2MTQxNjEyNGM0YSIsImMiOjl9&pageName=ReportSection)
 
 [SHOW Jupyter Notebook](https://github.com/michalprusaczyk98/Ekstraklasa-sezon-2021-2022/blob/main/Web_scrapping_and_preprocessing.ipynb)
 
